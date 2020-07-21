@@ -10,3 +10,10 @@ git push -u origin master
 
 git remote add origin https://github.com/xingming-cainiao/bcm.git
 git push -u origin master
+
+**************************************************
+get add test.txt
+
+git commit -m "test"
+
+git push
